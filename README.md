@@ -1,4 +1,4 @@
 # AI-ML Colon Cancer Predictor Project
 
 
-By detecting the changes in one's genes we can whether the person has colon cancer or not
+From the above data set and AI algorithm we are able to predict the accuracy of abnormalities in the Genes from which we can predict if the person is having or will get colon cancer
