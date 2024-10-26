@@ -21,8 +21,8 @@
     </a>
   </p>
   <p align="center">
-    <a href="https://github.com/amoghasbhardwaj/AI-ML-Colon-Cancer/blob/main/Colon_Cancer_Prediction.ipynb">
-      <strong>Explore the notebook »</strong>
+    <a href="https://www.kaggle.com/datasets/scipygaurav/lung-and-colon-cancer-dataset-splitted">
+      <strong>Explore the dataset »</strong>
     </a>
     <br /><br />
     ·
