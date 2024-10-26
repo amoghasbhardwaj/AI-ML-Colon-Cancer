@@ -63,9 +63,6 @@ The Colon Cancer Prediction project aims to predict whether a patient has colon 
   <a href="https://www.python.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://scikit-learn.org/stable/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/>
-  </a>
 </div>
 
 ## Getting Started 🏃‍♂️‍➡️
@@ -95,7 +92,7 @@ To get a local copy of the project up and running, follow these steps:
 
 After running the notebook, you will find the predicted results for colon cancer based on the provided dataset. The algorithms used include:
 
-- 1.	Logistic Regression: Accuracy: 94.74%
-- 2.	Decision Tree Classifier: Accuracy: 78.95%
-- 3.	Random Forest Classifier: Accuracy: 94.74%
-- 4.	Support Vector Classifier: Accuracy: 78.95%
+1.	Logistic Regression: Accuracy: 94.74%
+2.	Decision Tree Classifier: Accuracy: 78.95%
+3.	Random Forest Classifier: Accuracy: 94.74%
+4.	Support Vector Classifier: Accuracy: 78.95%
